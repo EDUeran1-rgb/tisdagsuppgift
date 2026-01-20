@@ -10,7 +10,7 @@ header {
 }
 #loggan:hover {
     user-select: none;
-    color: #555555;
+    color: #171717;
     text-shadow: 2px 2px 5px #000000;
     cursor: default;
 }
@@ -32,4 +32,7 @@ nav {
     color: #333333; 
     text-align: center;
     background-color: aquamarine;
+}
+p {
+    font-size: 18px; 
 }
